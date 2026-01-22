@@ -1,0 +1,34 @@
+.mammals{
+    background-color: grey;
+    height: 41px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-top: 20px;
+}
+
+.salamander{
+    background-color: grey;
+    height: 500px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.reptiles{
+    background-color:grey;
+    height: 350px;
+    width: 300px;
+    margin: auto;
+}
+.goats{
+    background-color: chartreuse;
+    
+}
+.cows{
+    background-color: cornsilk;
+    
+}
+.rabbits{
+    background-color: darkkhaki;
+    
+}

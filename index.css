@@ -1,0 +1,69 @@
+.family {
+    height: 21px;
+    width: 50%;
+    background-color: blue;
+    margin: auto;
+    
+}
+
+.marriage {
+    height: 300px;
+    width: 50%;
+    background-color: crimson;
+    margin: auto;
+}
+
+.relationships {
+    height: 300px;
+    width: 50%;
+    background-color: indigo;
+    margin: auto;
+
+}
+
+.clan {
+    height: 300px;
+    width: 50%;
+    background-color: hotpink;
+    margin: auto;
+
+}
+
+.relatives {
+    height: 21px;
+    width: 50%;
+    background-color: lawngreen;
+    margin: auto;
+}
+
+.love {
+    background-color: darkolivegreen;
+
+}
+
+.patience {
+    background-color: ghostwhite;
+}
+
+.forgiveness {
+    background-color: gold;
+}
+
+.grandmother {
+    background-color: cyan;
+    float: left;
+    height: 300px;
+    width: 49%;
+}
+
+.grandfather {
+    background-color: burlywood;
+    float: right;
+    height: 300px;
+    width: 49%;
+    padding-inline-start: 10px;
+    padding-inline-end: 5px;
+    padding-top: 5px;
+    
+
+}

@@ -1,0 +1,80 @@
+.queen {
+    height: 21px;
+    width: 61%;
+    background-color: grey;
+    margin: auto;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+
+.king {
+    height: 900px;
+    width: 60%;
+    background-color: grey;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.princess {
+    height: 275px;
+    width: 60%;
+    background-color: green;
+    margin: auto;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.castle {
+    height: 1px;
+    width: 55%;
+    background-color: gray;
+    margin: auto;
+    padding-inline-start: 100px;
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+
+.petite {
+    background-color: blue;
+}
+
+.pesh {
+    background-color: blueviolet;
+}
+
+.praise {
+    background-color: greenyellow;
+}
+
+.ariela {
+    background-color: orange;
+    height: 900px;
+    width: 50%;
+    float: left;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+}
+
+.abbey {
+    background-color: purple;
+    height: 900px;
+    width: 48%;
+    float: right;
+}
+
+.penguin {
+    background-color: hotpink;
+    height: 450px;
+    width: 87%;
+    padding-inline-end: 30px;
+    padding-inline-start: 30px;
+    padding-top: 30px;
+}
+
+.rabbit {
+    background-color: lightskyblue;
+    height: 420px;
+    width: 100%;
+}
